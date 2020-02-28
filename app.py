@@ -15,7 +15,6 @@ def guess_a_num():
 
 
 def download_score_board():
-    # TODO? return scores, separate printing
     f = open('Leaderboard.txt', 'r')
     leaderboard = [line.replace('\n', '') for line in f.readlines()]
     scores = []

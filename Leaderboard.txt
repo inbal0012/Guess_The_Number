@@ -1,5 +1,10 @@
-1. User1, Points
-2. User2, Points
-3. User3, Points
-4. User4, Points
-5. User5, Points
+user1, 10
+user2, 11
+user3, 12
+user4, 13
+user5, 14
+user6, 15
+user7, 16
+user8, 17
+user9, 17
+user10, 17
